@@ -11,7 +11,7 @@ from pyrobot import COMMAND_HAND_LER
 # -- Constants -- #
 ALIVE = "`I'm alive, Master :3`"
 HELP = ("Elaborate help available soon.\n"
-        "https://telegram.dog/UserBotTalk")
+        "https://t.me/cookies9011")
 REPO = ("Userbot is available on GitHub:\n"
         "https://github.com/SpEcHiDe/PyroGramUserBot")
 # -- Constants End -- #
