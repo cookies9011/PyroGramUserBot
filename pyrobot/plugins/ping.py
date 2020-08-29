@@ -9,11 +9,7 @@ from pyrobot import COMMAND_HAND_LER
 
 
 # -- Constants -- #
-ALIVE = "`I'm alive, Master :3`"
-HELP = ("Elaborate help available soon.\n"
-        "https://telegram.dog/UserBotTalk")
-REPO = ("Userbot is available on GitHub:\n"
-        "https://github.com/SpEcHiDe/PyroGramUserBot")
+SPAM = "ZELOS & OXY REFILLING/n/n✅ Netflix, 1 mese di durata garantita, nessun tipo di blocco!/n/n📑 Prezzi bassissimi, e grandi quantita al giorno, massimo ordine di 200 netflix al giorno!/n/n👨‍💻 Per altre info contattare @ListaDeiDesideri o @Zelos00"
 # -- Constants End -- #
 
 
